@@ -1,6 +1,6 @@
 # Code in Haskell
 
-Recursos:
+Resources:
 
 - [Haskell WikiBook](https://en.wikibooks.org/wiki/Haskell);
-- [Aprender Haskell será um grande bem para você](http://haskell.tailorfontela.com.br/chapters).
+- [Learn You a Haskell for Great Good!](http://haskell.tailorfontela.com.br/chapters).
